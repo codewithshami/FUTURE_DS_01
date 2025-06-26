@@ -4,9 +4,6 @@
 
 An interactive sales analytics dashboard built using [Streamlit](https://streamlit.io/) and [Plotly](https://plotly.com/python/), designed to help business analysts explore and visualize key metrics from a real-world e-commerce dataset.
 
-![Dashboard Screenshot](https://user-images.githubusercontent.com/your-username/dashboard-preview.png)
- 
-
 ## 📊 Features
 
 - 💰 **KPI Metrics**: Revenue, transactions, and customer count
